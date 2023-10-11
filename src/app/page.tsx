@@ -1,6 +1,5 @@
 "use client" 
 
-import { VerticalPositionRelativeFrom } from "docx";
 import { useState } from "react";
 
 export default function Home() {
